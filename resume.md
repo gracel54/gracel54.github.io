@@ -8,8 +8,7 @@ gracel54@uw.edu
 
 # Summary
 
-> As a Geography: Data Science, I have experience in working with several programming languages
-(R, Python, Java, SQL) and using GIS software (QGIS, ArcMap, ArcGIS PRO) to create visually
+> As a Geography: Data Science student, I have experience in working with several programming languages (R, Python, Java, SQL) and using GIS software (QGIS, ArcMap, ArcGIS PRO) to create visually
 appealing maps that are effective at story telling.
 
 # Work Experience
@@ -27,7 +26,7 @@ appealing maps that are effective at story telling.
 ## [CoMotion MakerSpace](https://comotion.uw.edu/what-we-do/makerspace/) (Seattle, WA)
 
 
-**Student staff** (Sept 2017 - Dec 2019)
+**Student staff** (Sept 2017 - Dec 2019) 
 
 * Facilitated one-on-one educational support for equipment, including (but not limited to) 3D printers, laser cutters, and sewing machines
 * Assessed equipment and execute appropriate maintenance to minimally impact users’ projects and progress
